@@ -9,7 +9,7 @@ output:
 
 ------------------------------------------------------------------------
 
-### **Introduction**
+### Introduction
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ In this project, we will explore a dataset of medical insurance charges and use 
 
 ------------------------------------------------------------------------
 
-### **Loading the data**
+### Loading the data
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ The cor() function calculates the correlation matrix between the numeric columns
 
 ------------------------------------------------------------------------
 
-### **Visualizing the data**
+### Visualizing the data
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ From the boxplots, we can see that smokers tend to have significantly higher cha
 
 ------------------------------------------------------------------------
 
-### **Linear Regression**
+### Linear Regression
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ In contrast, sex and region were not significant predictors of charges, as the p
 
 ------------------------------------------------------------------------
 
-### **Conclusion**
+### Conclusion
 
 ------------------------------------------------------------------------
 
