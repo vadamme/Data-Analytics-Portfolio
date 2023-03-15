@@ -17,6 +17,10 @@ In this project, I used R programming to explore a dataset containing informatio
 ### Project 2: SQL Business Database Management
 In this SQL project, I worked with three different databases: employees, departments, and dept_emp. I used various SQL statements like JOIN and CASE to retrieve information from the databases, manipulate data, and merge tables. Overall, the project involved complex SQL queries to perform data analysis and generate meaningful insights from the multiple databases.
 
+
+### Project 3: COVID-19 Global Vaccine Tracker
+This dashboard displays global COVID-19 vaccination progress, including total doses administered, doses administered daily, and percentage of the population vaccinated in each country. Overall, the dashboard provides an easy-to-use, dynamic way to explore global COVID-19 vaccination data. If you would like to access the interactive version of this visualization, <a href="https://public.tableau.com/views/COVID-19GlobalVaccineTracker_16788414615040/COVID-19GlobalVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link">click here</a>. 
+
 ***
 ## **Contact**
 If you have any questions or would like to get in touch with me, you can reach me at voy.adamek@gmail.com or through my LinkedIn profile at www.linkedin.com/in/voy-adamek.
