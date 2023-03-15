@@ -13,15 +13,17 @@ My name is Voy Adamek and I am a data analyst with experience in finance and man
 ### Project 1: Healthcare Regression Analysis
 In this project, I used R programming to explore a dataset containing information about medical charges for different individuals. I began by visualizing the relationships between the numerical variables. We then computed the correlation matrix to identify the variables that have the strongest associations with charges. Next, we created boxplots to explore the relationships between charges and the categorical variables of smoker, sex, and region. Finally, we built a linear regression model to predict medical charges based on the available data. 
 
-
+Data source: 
 
 ### Project 2: SQL Business Database Management
 In this SQL project, I worked with three different databases: employees, departments, and dept_emp. I used various SQL statements like JOIN and CASE to retrieve information from the databases, manipulate data, and merge tables. Overall, the project involved complex SQL queries to perform data analysis and generate meaningful insights from the multiple databases.
 
-
+Data source: 
 
 ### Project 3: COVID-19 Global Vaccine Tracker
 This dashboard displays global COVID-19 vaccination progress, including total doses administered, doses administered daily, and percentage of the population vaccinated in each country. Overall, the dashboard provides an easy-to-use, dynamic way to explore global COVID-19 vaccination data. If you would like to access the interactive version of this visualization, along with my other visualization projects, <a href="https://public.tableau.com/app/profile/voy.adamek">click here</a>. 
+
+Data source: https://docs.google.com/spreadsheets/d/1oMrHuOkbXAoXibN6UzHUkNrwqvjQVFOU8CuqFMVZiUo/edit?usp=share_link
 
 ***
 ## **Contact**
