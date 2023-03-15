@@ -19,7 +19,7 @@ In this SQL project, I worked with three different databases: employees, departm
 
 
 ### Project 3: COVID-19 Global Tracker
-This dashboard displays global COVID-19 vaccination progress, including total doses administered, doses administered daily, and percentage of the population vaccinated in each country. Overall, the dashboard provides an easy-to-use, dynamic way to explore global COVID-19 vaccination data. If you would like to access the interactive version of this visualization, along with my other visualization projects, <a href="hhttps://public.tableau.com/app/profile/voy.adamek">click here</a>. 
+This dashboard displays global COVID-19 vaccination progress, including total doses administered, doses administered daily, and percentage of the population vaccinated in each country. Overall, the dashboard provides an easy-to-use, dynamic way to explore global COVID-19 vaccination data. If you would like to access the interactive version of this visualization, along with my other visualization projects, <a href="https://public.tableau.com/app/profile/voy.adamek">click here</a>. 
 
 ***
 ## **Contact**
