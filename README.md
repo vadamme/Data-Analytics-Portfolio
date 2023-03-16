@@ -10,7 +10,7 @@ My name is Voy Adamek and I am a data analyst with experience in finance and man
 
 ***
 
-### Project 1: Healthcare Regression Analysis
+### Project 1: Healthcare Cost Regression Analysis
 In this project, I used R programming to explore a dataset containing information about medical charges for different individuals. I began by visualizing the relationships between the numerical variables. I then computed the correlation matrix to identify the variables that have the strongest associations with charges. Next, I created boxplots to explore the relationships between charges and the categorical variables of smoker, sex, and region. Finally, I built a linear regression model to predict medical charges based on the available data. 
 
 Data source: <a href="https://drive.google.com/file/d/1upAZPktX0eIk5AYGTEGVhAuQphx_VHCE/view?usp=share_link">Insurance dataset</a>. 
