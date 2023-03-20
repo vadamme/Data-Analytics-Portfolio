@@ -28,5 +28,5 @@ Data source:
 
 ***
 ## **Contact**
-If you have any questions or would like to get in touch with me, you can reach me at voy.adamek@gmail.com or through my LinkedIn profile at www.linkedin.com/in/voy-adamek.
+If you have any questions or would like to get in touch with me, you can reach me at voy.adamek@gmail.com or through <a href="https://www.linkedin.com/in/voy-adamek">my LinkedIn profile</a>.
 ***
