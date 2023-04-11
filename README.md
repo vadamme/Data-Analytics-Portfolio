@@ -6,7 +6,7 @@
 ### Overview
 
 Hello and welcome to my data analytics portfolio! 
-My name is Voy Adamek and I am a data analyst with experience in finance and management. Fluent in English, Polish, and German, I bring a global perspective and diverse skillset to any team. With expertise in Excel, SQL, R, Python, Tableau, and PowerBI, I excel at data cleaning, pattern recognition, data storytelling, and visualizations. My passion for using data to drive informed decision-making and my ability to effectively communicate complex analyses make me a valuable asset to any organization.
+My name is Voy and I am a data analyst with experience in finance and management. Fluent in English, Polish, and German, I bring a global perspective and diverse skillset to any team. With expertise in Excel, SQL, R, Python, Tableau, and PowerBI, I excel at data cleaning, pattern recognition, data storytelling, and visualizations. My passion for using data to drive informed decision-making and my ability to effectively communicate complex analyses make me a valuable asset to any organization.
 
 ***
 
