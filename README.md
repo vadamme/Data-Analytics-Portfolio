@@ -6,7 +6,7 @@
 ### Overview
 
 Hello and welcome to my data analytics portfolio! 
-My name is Voy and I am a data analyst with experience in finance and management. Fluent in English, Polish, and German, I bring a global perspective and diverse skillset to any team. With expertise in Excel, SQL, R, Python, Tableau, and PowerBI, I excel at data cleaning, pattern recognition, data storytelling, and visualizations. My passion for using data to drive informed decision-making and my ability to effectively communicate complex analyses make me a valuable asset to any organization.
+My name is Voy and I am a data analyst with extensive experience in finance and management. Fluent in English, Polish, and German, I bring a global perspective and diverse skillset to any team. With expertise in Excel, SQL, R, Python, Tableau, and PowerBI, I excel at data cleaning, pattern recognition, data storytelling, and visualizations. My passion for using data to drive informed decision-making and my ability to effectively communicate complex analyses make me a valuable asset to any organization.
 
 ***
 
@@ -30,7 +30,3 @@ Data source:
 ## **Contact**
 If you have any questions or would like to get in touch with me, you can reach me at voy.adamek@gmail.com or through <a href="https://www.linkedin.com/in/voy-adamek">my LinkedIn profile</a>.
 ***
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="voy-adamek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/voy-adamek?trk=profile-badge">Voy Adamek</a></div>
