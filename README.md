@@ -30,3 +30,7 @@ Data source:
 ## **Contact**
 If you have any questions or would like to get in touch with me, you can reach me at voy.adamek@gmail.com or through <a href="https://www.linkedin.com/in/voy-adamek">my LinkedIn profile</a>.
 ***
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="voy-adamek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/voy-adamek?trk=profile-badge">Voy Adamek</a></div>
